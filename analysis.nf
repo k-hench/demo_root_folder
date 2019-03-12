@@ -37,3 +37,4 @@ process run_pairewise {
 	echo "-- ${span} --" >> step1.${pop1}-${pop2}.${span}.txt       # running average
 	"""
 }
+
